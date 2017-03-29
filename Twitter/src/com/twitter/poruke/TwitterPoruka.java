@@ -4,7 +4,7 @@ package com.twitter.poruke;
 /**
  * Ova klasa opisuje poruku na drustvenoj mrezi Twitter
  * @author Ilija Starcevic
- * @version 1.0
+ * @version 2.0
  *
  */
 public class TwitterPoruka {
